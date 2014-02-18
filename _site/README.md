@@ -1,3 +1,0 @@
-Hello Mean
-----------
-Write things!
